@@ -1,1 +1,3 @@
 # choropleth-of-Hong-Kong-2016-by-census-result
+This project is about using Folium and Ipywidgets to make interactive choropleth map. The data is come from Hong Kong 2016 Population By-census Results (https://www.bycensus2016.gov.hk/en/bc-dp.html). To avoid any legal issues, the files of the By-census Results are not in the data folder, but the summarized csv file that is used for data visualisation is available. 
+There are two Jupyter notebooks in this project. One is for preprocessing the data, another is for the map visualisation. District.py contains code for the class District which is used in the preprocessing notebook to handle the data.
