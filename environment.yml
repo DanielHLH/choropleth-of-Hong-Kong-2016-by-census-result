@@ -5,6 +5,7 @@ dependencies:
   - python
   - numpy
   - pandas
+  - fiona
   - geopandas
   - folium
   - ipywidgets
