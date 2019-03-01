@@ -1,7 +1,6 @@
 name: map_env
 channels:
   - conda-forge
-  - default
 dependencies:
   - pandas
   - poppler=0.67.0
