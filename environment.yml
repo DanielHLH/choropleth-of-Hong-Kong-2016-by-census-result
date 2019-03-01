@@ -1,10 +1,10 @@
-name: map_environment
+name: "map_environment"
 channels:
-- conda-forge
+  - conda-forge
 dependencies:
-- python
-- numpy
-- pandas
-- geopandas
-- folium
-- ipywidgets
+  - python
+  - numpy
+  - pandas
+  - geopandas
+  - folium
+  - ipywidgets
